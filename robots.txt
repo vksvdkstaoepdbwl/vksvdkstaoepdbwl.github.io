@@ -1,0 +1,8 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://vksvdkstaoepdbwl.github.io/vksvdkstaoepdbwl_github_io_zp533_1.txt
+Sitemap: https://vksvdkstaoepdbwl.github.io/vksvdkstaoepdbwl_github_io_zp533_15.txt
+Sitemap: https://vksvdkstaoepdbwl.github.io/vksvdkstaoepdbwl_github_io_zp533_20.txt
+Sitemap: https://vksvdkstaoepdbwl.github.io/vksvdkstaoepdbwl_github_io_zp533_26.txt
+Sitemap: https://vksvdkstaoepdbwl.github.io/vksvdkstaoepdbwl_github_io_zp533_5.txt
